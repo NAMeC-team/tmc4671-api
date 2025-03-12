@@ -1,7 +1,7 @@
 # TMC4671 API - NAMeC copy
 This repository is used to keep the latest files from the [TMC-API](https://github.com/analogdevicesinc/TMC-API) but only those of the TMC4671 chip, to be used as an mBed library.
 
-All files contained in this directory, except for the `.last_commit` and `update.sh`, fetching the latest version and committing if there is a new update, come from the original repository. The original README is available below
+All files contained in this directory, except for the `update.sh` script, fetching the latest version and committing if there is a new update, come from the original repository. The original README is available below
 
 --
 # TMC4671
